@@ -1,0 +1,62 @@
+*Ficar atento em oportunidades de mercado para descobrir os melhores investimentos.
+
+Investimentos são divididos em categorias:
+
+1ª Categoria: Tipos de investimento em RENDA FIXA (Melhores investimentos, sem risco)
+	-São todos os investimentos em que se pode ter uma boa previsibilidade de retorno.
+	-Todos os invetimentos dessa categoria são mais seguros e conservadores.
+	
+	Tipo 1: Prefixados:
+		-Possuem uma taxa de retorno fixa.
+		-No momento do investimento, sabe-se exatamente o quanto ele irá render.
+	
+	Tipo 2: Pós-fixados;
+		-Possuem conexão com indices.
+		-Normalmente são atrelados ao:
+			-CDI *
+			-Selic *
+			-IPCA (Inflação) *
+			
+	Os títulos de renda fica mais populares são:
+		-Tesouro direto* (governo)
+		-CDB* (Certificado de deposito bancário) (bancos) (Protegido pelo FUNDO GARANTIDOR DE CRÉDITO* até o valor de R$ 250.000)
+		-LCI e LCA* (Letras de crédito isentas do imposto de renda) (bancos) (Protegido pelo FUNDO GARANTIDOR DE CRÉDITO* até o valor de R$ 250.000)
+		-LC* (Letras de câmbio) (financeiras)
+		-Fundos de renda fixa* 
+		
+	*FUNDO GARANTIDOR DE CRÉDITO
+		Forma de garantir o recebimento do capital e do lucro, mesmo se a instituição falir.
+		
+	*Todos estes investimentos são TÍTULOS DE CRÉDITOS emitidos pelo governo, por bancos ou por financeiras.
+	*Ao comprar ATIVOS*, você estaá emprestando dinheiro a organização. 
+	*O lucro virá quando a organização para a taxa de juros combinada no periodo.
+	*Funciona como se nós fossemos pedir dinheiro empretado ao banco.
+	*TESOURO SELIC: Alta liquidez
+	
+	*Reserva de emergência: Deve equivaler a seis vezes o custo mensal para menter a familia estável.
+	*Custo mensal para manter a familia estável: R$ ??
+	
+2ª Categoria: Investimentos em RENDA VARIÁVEL
+	-São investimentos onde existem oscilações imprevisíveis determinadas por diversos fatores dificeis de controlar.
+	-O investimento pode ir bem ou dar prejuizo.
+	-Estes ATIVOS, por terem mais risco podem trazem uma rentabilidade maior que a renda fixa.
+	*Quanto maior a chance de lucro, maior a chance de perda.
+		-Na hora de escolher o investimento é preciso equilibrar esses fatores.
+		
+	Investimentos:
+		-Fundos multimercado (mescla renda fixa e renda variável)
+		-Fundos imobiliários (destinado a empreendimentos imobiliários)
+		-Fundos de ações (objetivo de seguir indices como o Ibovespa)
+		
+		-COE (Certificado de operações estruturadas)
+		-Mercado de ações (compra e venda de papéis ou lucro com dividendos)
+		-Mercado de opções (índice ou dolar)
+		
+
+*Você deve escolher classes de investimentos que estão localizadas em mercados e riscos diferentes
+
+*Sempre leve em consideração esses itens abaixo na hora de escolher um ativo:
+-Rentabilidade
+-Risco
+-Prazo (curto, médio ou longo)
+-Mercado em que está	
